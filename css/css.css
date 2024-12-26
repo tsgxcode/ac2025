@@ -8,6 +8,12 @@ body{
     justify-self: center;
     padding: 1rem;
     border-top: 5px #e3d28e;
-    border-style: double;
+    border-style: double; 
 }
 
+.wrapper{
+    display: grid;
+    justify-content: center;
+    padding: 8px;
+    gap: 10px;
+}
