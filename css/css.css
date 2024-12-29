@@ -17,3 +17,7 @@ body{
     padding: 8px;
     gap: 10px;
 }
+
+.art{
+    grid-template-columns: 2/3 2/6 2/9;
+}
